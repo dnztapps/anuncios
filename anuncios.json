@@ -13,13 +13,6 @@
       "titulo": "Fone Bluetooth Premium",
       "preco": "R$ 79,90",
       "url": "https://seusite.com/fone-bluetooth"
-    },
-    {
-      "id": 3,
-      "icone": "📚",
-      "titulo": "E-book Produtividade",
-      "preco": "R$ 19,90",
-      "url": "https://seusite.com/ebook"
     }
   ]
 }
